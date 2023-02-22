@@ -1,3 +1,5 @@
+com.nos.study.springbootstudy.config.autoconfig.PropertyPostProcessConfig
+com.nos.study.springbootstudy.config.autoconfig.PropertyPlaceholderConfig
 com.nos.study.springbootstudy.config.autoconfig.TomcatWebServerConfig
 com.nos.study.springbootstudy.config.autoconfig.JettyWebServerConfig
 com.nos.study.springbootstudy.config.autoconfig.DispatcherServletConfig
